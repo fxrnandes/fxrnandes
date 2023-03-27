@@ -15,7 +15,7 @@
   </em>
 </p>
 
-- 🌱 constantly studying javascript, c and c#.
+- 🌱 constantly studying 
 - 📫 My email: vinni.fernandescar@gmail.com
 
 ### ⚡ Technologies:

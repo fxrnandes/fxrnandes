@@ -1,16 +1,35 @@
-### Hi there 👋
+<h1 align='center'>
+  Hi there, I'm Vinicius Fernandes!
+  <br/>
+  Welcome to my page :)
+</h1>
+<p align='center'>
+  Software engineering student
+</p>
 
-<!--
-**fxrnandes/fxrnandes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎱 About Me:
 
-Here are some ideas to get you started:
+<p>
+  <em>
+    I'm 18 years old, from Jaraguá do Sul and currently in the first semester of software engineering college.
+  </em>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 constantly studying javascript, c and c#.
+- 📫 My email: vinni.fernandescar@gmail.com
+
+### ⚡ Technologies:
+
+These are some of the technologies and tools I use:
+
+- Front-End
+
+[![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,js,react,bootstrap)](https://skillicons.dev)
+
+- Back-End
+
+[![Minhas Habilidades](https://skillicons.dev/icons?i=nodejs,docker,mysql)](https://skillicons.dev)
+
+- Tools and Plataforms
+
+[![Minhas Habilidades](https://skillicons.dev/icons?i=azure,git,figma,linux)](https://skillicons.dev)

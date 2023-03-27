@@ -33,7 +33,3 @@ These are some of the technologies and tools I use:
 - Tools and Plataforms
 
 [![Minhas Habilidades](https://skillicons.dev/icons?i=azure,git,figma,linux)](https://skillicons.dev)
-
-| My Statistics                                                                                                                                                            | Top Languages                                                                                                                                                                    |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![fxr github stats](https://github-readme-stats.vercel.app/api?username=fxrnandes&show_icons=true&hide_border=true&count_private=true&theme=jolly) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fxrnandes&langs_count=10&count_private=true&hide_border=true&theme=jolly&layout=compact) |

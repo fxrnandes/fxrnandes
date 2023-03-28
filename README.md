@@ -22,13 +22,9 @@
 
 These are some of the technologies and tools I use:
 
-- Front-End
+- Front and Back
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,js,typescript,react,bootstrap,python)](https://skillicons.dev)
-
-- Back-End
-
-[![Minhas Habilidades](https://skillicons.dev/icons?i=nodejs,docker,mysql,python)](https://skillicons.dev)
+[![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,js,typescript,python)](https://skillicons.dev)
 
 - Tools and Plataforms
 

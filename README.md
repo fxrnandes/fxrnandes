@@ -29,3 +29,6 @@ These are some of the technologies and tools I use:
 - Tools and Plataforms
 
 [![Minhas Habilidades](https://skillicons.dev/icons?i=azure,git,figma,linux)](https://skillicons.dev)
+
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fxrnandes&layout=compact&langs_count=7&theme=tokyonight"/>

@@ -11,7 +11,7 @@
 
 <p>
   <em>
-    I'm 19 years old, from Jaraguá do Sul and currently in the second semester of software engineering college.
+    I'm 19 years old, from Jaraguá do Sul and I'm currently in the third semester of software engineering college.
   </em>
 </p>
 
@@ -24,11 +24,11 @@ These are some of the technologies and tools I use:
 
 - Front and Back
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,js,python,c,cs,cpp,java)](https://skillicons.dev)
+[![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,js,vue,c,cs,cpp)](https://skillicons.dev)
 
 - Tools and Plataforms
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=git,figma,linux,aws,autocad,)](https://skillicons.dev)
+[![Minhas Habilidades](https://skillicons.dev/icons?i=git,figma,aws,autocad,)](https://skillicons.dev)
 
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fxrnandes&layout=compact&langs_count=7&theme=tokyonight"/>

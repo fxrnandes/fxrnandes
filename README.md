@@ -24,7 +24,7 @@ These are some of the technologies and tools I use:
 
 - Front and Back
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,js,vue,c,cs,cpp)](https://skillicons.dev)
+[![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,js,vue,angular,react,c,cs,cpp,python)](https://skillicons.dev)
 
 - Tools and Plataforms
 

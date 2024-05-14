@@ -4,7 +4,7 @@
   Welcome to my page :)
 </h1>
 <p align='center'>
-  Software engineering student
+  Software engineering student and front-end dev
 </p>
 
 ### 🎱 About Me:

@@ -11,7 +11,7 @@
 
 <p>
   <em>
-    I'm 20 years old, from Jaraguá do Sul and I'm currently in the sixth semester of software engineering college.
+    I'm 21 years old, from Jaraguá do Sul and I'm currently in the sixth semester of software engineering college.
   </em>
 </p>
 

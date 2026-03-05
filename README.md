@@ -11,7 +11,7 @@
 
 <p>
   <em>
-    I'm 21 years old, from Jaraguá do Sul and I'm currently in the sixth semester of software engineering college.
+    I'm 21 years old, from Jaraguá do Sul and I'm currently in the seventh semester of software engineering college.
     <br/>
     Currently working as a Flutter Developer Jr and studying Software Engineering (6th semester).  
   </em>

@@ -32,9 +32,6 @@ These are some of the technologies and tools I use:
 
 [![Minhas Habilidades](https://skillicons.dev/icons?i=git,figma,aws,autocad,)](https://skillicons.dev)
 
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fxrnandes&layout=compact&langs_count=7&theme=tokyonight"/>
-
 <p align="center">
   <em>“Code is like humor. When you have to explain it, it’s bad.”</em>
 </p>

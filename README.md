@@ -13,7 +13,7 @@
   <em>
     I'm 21 years old, from Jaraguá do Sul and I'm currently in the seventh semester of software engineering college.
     <br/>
-    Currently working as a Flutter Developer Jr and studying Software Engineering (6th semester).  
+    Currently working as a Flutter Developer Jr at Grupo Booz.  
   </em>
 </p>
 

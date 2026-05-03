@@ -4,7 +4,7 @@
   Welcome to my page :)
 </h1>
 <p align='center'>
-  Software engineering student and Flutter Developer Jr
+  Software engineering student and Full Stack Developer Jr
 </p>
 
 ### 🎱 About Me:
@@ -13,7 +13,7 @@
   <em>
     I'm 21 years old, from Jaraguá do Sul and I'm currently in the seventh semester of software engineering college.
     <br/>
-    Currently working as a Flutter Developer Jr at Grupo Booz.  
+    Currently working as a Full Stack Developer Jr at Grupo Booz.  
   </em>
 </p>
 
